@@ -1,6 +1,6 @@
 # 📊 Seasonal Sales Analysis & Dashboard
 
-Welcome to the **Seasonal Sales Analysis** repository!  
+Welcome to the **Maximizing Sales Performance with Seasonal Insights** repository!  
 This project explores product sales performance across **Season, Total Products, Country** to generate insights and strategic recommendations.  
 Built using **Power BI** and **Python**, the dashboard highlights key trends and actions for business growth.  
 
